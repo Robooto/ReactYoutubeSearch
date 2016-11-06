@@ -8,3 +8,10 @@ webpack dev server starts a simple static server and watches files so webpack ca
 writing react is just writing components.  
 
 Nest components to make apps
+
+
+// react and react-dom different libraries.
+
+dom specific items are in react-dom
+
+always one component per file
