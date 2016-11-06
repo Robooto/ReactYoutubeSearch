@@ -1,0 +1,10 @@
+learning react
+
+Webpack bundles everything together in a package...ie webpack get it!
+
+webpack dev server starts a simple static server and watches files so webpack can bundle them.
+
+
+writing react is just writing components.  
+
+Nest components to make apps
