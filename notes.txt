@@ -15,3 +15,16 @@ Nest components to make apps
 dom specific items are in react-dom
 
 always one component per file
+
+
+downwards data flow - only the parent component be responsible for getting data
+
+const App = () => {
+    return (
+        <div>
+            <SearchBar />
+        </div>
+    );
+};
+
+use className instead of class with react components
